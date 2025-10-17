@@ -1,1 +1,28 @@
-# social-enterprise-net.github.io
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Social Enterprise Net</title>
+		<link rel="stylesheet" media="screen" href="mystyle.css">
+		<link rel="shortcut icon" href="heart.png">
+	</head>
+	<body>
+		<div class="topnav"><nav>
+			<a href="https://social-enterprise-net.github.io/"Home</a>
+		</nav></div>
+        
+        <h1>Social Enterprise Net</h1>
+        <h2>to be installed...</h2>
+        <br>
+        <hr>
+        <footer>
+            <div id="cons">
+                <a href="https://www.warpcorps.org/" target="_blank"><img src="heart.png" alt="Warps Corps Website" class="home_icons"></a>
+            </div>
+            <div>
+                <a href="https://social-enterprise-net.github.io/"Home</a>
+            </div>
+            <p>copyright 2025</p>
+        </footer>
+	</body>
+</html>
