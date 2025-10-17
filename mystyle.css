@@ -12,13 +12,13 @@
     body {
 		font-size: 1em;
 		color: #D20103;
-		background-color: #E2EAF4;
+		background-color: #764D42;
         margin: 0;
 		}
 
 	a {
 		font-size: 1em;
-		color: #58271a;
+		color: #D20103;
 		}
 
 	a:hover, a:focus {
@@ -28,12 +28,12 @@
 	h1 {
 		font-size: 5em;
 		text-align: center;
-		color: #000046;
+		color: #D20103;
 		font-family: berosefont;
 		}
 
 	h2 {
-		color: #000046;
+		color: #D20103;
 		text-align: center;
 		font-size: 3em;
 		font-family: berosefont;
@@ -41,14 +41,14 @@
 		}
 	
 	h3 {
-		color:#000046;
+		color:#D20103;
 		font-size: 2em;
 		font-family: tommy_soft_medium;
 		text-align: center;
 		}
 		
 	p.bold {
-		color:#000046;
+		color:#D20103;
 		font-size: 1.5em;
 		font-family: tommy_soft_medium;
 		font-weight: bold;
@@ -66,7 +66,7 @@
 			
     /*footer styles*/
         footer {
-            color: #1a8773;
+            color: #D20103;
             font-size: 1em;
             font-family: tommy_soft_regular;
             text-align: center;
@@ -82,14 +82,14 @@
             height: 30px;
             }
 
-        #fourcons {
+        #cons {
             margin: 10px;
             }
 
 
 	/*p styles*/
 		p {
-			color: #383880;
+			color: #D20103;
 			font-size: 1.5em;
 			font-family: tommy_soft_regular;
 			}
@@ -104,7 +104,7 @@
 			
         
         .topnav {
-            background-color: #777798;
+            background-color: #D20103;
             overflow: hidden;
             }
         
@@ -115,7 +115,7 @@
             }
 
         .topnav a:hover {
-            color: #383860;
+            color: #764D42;
             }
             
         .topnav a.active {
@@ -335,4 +335,5 @@
         border-bottom-left-radius: .4em;
         border-bottom-right-radius: .4em;
         background-color: #EDEDED;
+
         }
